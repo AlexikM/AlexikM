@@ -1,12 +1,6 @@
 ```console
-$ whoami
-alex
-
-$ role
-Engineer and builder
-
 $ background
-EPFL → founder → consultant → product engineer
+EPFL Engineer and builder
 
 $ shipped recently
 satellites
